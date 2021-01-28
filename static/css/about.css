@@ -1,0 +1,66 @@
+.navbar-default {
+    background-color: #41ABF7;
+    background-image: none;
+    color: white;
+}
+
+.navbar-default .navbar-brand {
+    color: white;
+    font-size: 18px;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: white;
+    text-shadow: 0 1px 0 rgba(0, 0, 0, 0.38);
+    font-size: 16px;
+}
+
+.navbar-default .navbar-nav.nav-hover-dropdown > li:hover > a {
+    background-image: none !important;
+    background: white;
+    color: #2a2a2a;
+    text-shadow: 1px 1px 1px #e2dddd;
+}
+
+
+body {
+    font-family: 'Microsoft Yahei';
+    font-size: 16px;
+    background: #FEFFF1;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    padding: 0 20px;
+}
+
+.wrapper {
+    min-width: 300px;
+    margin: 100px auto;
+    max-width: 960px;
+    background-color: #FAFFFF;
+    padding: 20px 20px;
+    box-shadow: 1px 1px 10px #4CACFF, 1px -1px 10px #4CACFF, -1px 1px 10px #4CACFF, -1px -1px 10px #4CACFF;
+    border-radius: 10px;
+}
+
+.cnzz-wrapper {
+    display: none;
+}
+
+.avatar {
+    float: right;
+    margin-right: 20px;
+    margin-top: 20px;
+    border-radius: 50%;
+    border: solid 3px #59B2FE;
+}
+
+#email {
+    vertical-align: middle;
+}
+
+p {
+    margin: 0 0 16px;
+}
