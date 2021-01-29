@@ -4,4 +4,5 @@
 + html5
 + css3
 + bootstrap
++ jQuery
 + font-awesome
